@@ -6,13 +6,14 @@
 
 ### Description
 
-A literal repository of CS 505 problems to be used in class, lab, homework assignments, and exams.
+A literal repository of CS 505 lecture material.
 
 ---
 
 ### Author
 
-[**Sebastián Romero Cruz**](https://github.com/sebastianromerocruz) (Summer 2022 — Present)
+[**Sebastián Romero Cruz**](https://github.com/sebastianromerocruz), Adjunct Professor _(They / Them)_
+
 
 ---
 
@@ -24,4 +25,4 @@ A literal repository of CS 505 problems to be used in class, lab, homework assig
 
 ---
 
-<sub>© Sebastián Romero Cruz et al. 2022</sub>
+<sub>© Sebastián Romero Cruz. 2022</sub>
