@@ -2,11 +2,43 @@
 
 ## Pace University
 
----
-
 ### Description
 
-A literal repository of CS 505 lecture material.
+A literal repository of CS 505 lecture material, complete with lecture notes and code sample files.
+
+#### _Structure_
+
+```text
+[root]
+  |
+  |--README.md
+  |
+  |--[src]
+  |    |
+  |    |--[lecture_01]
+  |    |    |
+  |    |    |--README.md (lecture notes)
+  |    |    |--[src]
+  |    |         |
+  |    |         |--[package]
+  |    |         |     |
+  |    |         |     |--packageClass.java
+  |    |         |
+  |    |         |--mainClass.java
+  |    |
+  ~~~~~~~
+  |    |
+  |    |--[lecture_XX]
+  |    |    |
+  |    |    |--README.md (lecture notes)
+  |    |    |--[src]
+  |    |         |
+  |    |         |--[package]
+  |    |         |     |
+  |    |         |     |--packageClass.java
+  |    |         |
+  |    |         |--mainClass.java
+```
 
 ---
 

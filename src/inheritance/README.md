@@ -2,8 +2,6 @@
 
 # Inheritance
 
-### January 27th, 2022
-
 ***Song of the day***: _[**Coming Up**](https://youtu.be/g5nzLQ63c9E) by Paul McCartney (1980)._
 
 ---

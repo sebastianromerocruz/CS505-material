@@ -2,8 +2,6 @@
 
 # Introduction
 
-### January 25th, 2022
-
 ***Song of the day***: _[**Omokage (produced by Vaundy)**](https://youtu.be/Z2Z9V-4DMGw) by milet, Aimer, and Lilas Ikuta (2021)._
 
 ---

@@ -2,8 +2,6 @@
 
 # Inheritance: _Overriding Methods and Abstract Classes_
 
-### February 2nd, 2022
-
 ***Song of the day***: _[**Mermaid in Lisbon (feat. Teresa Salgueiro)**](https://youtu.be/b_0Nqhf_aM0) by Patrick Watson (2021)._
 
 ---
