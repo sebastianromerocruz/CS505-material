@@ -41,19 +41,16 @@ That's all I want to flex at the present moment. Let's talk about the course.
 
 ### Part 2: _Course Prerequisites_
 
-You must, ostensibly, have a minimum grade of **C in CS121** in order to take CS122, this class. If this is not the case
-for you, please speak to your advisor as soon as possible so that you can switch to a different course plan.
+The single prerequisite course for success of non-CS college graduates in MS in CS/SDE by effective hands-on 
+introduction to computational thinking and Java programming based on the Pace University unique VM-empowered Seidenberg 
+Portal Lab that enables students to practice programming anywhere anytime.
 
-That being said, it has been a long break, and we are all liable to forget material. So, if you feel that your CS121
-foundation is not as solid as you would like it to be, please feel free to go through the textbook and review the 
-material.
-
-More importantly, if there is anything at all that you don't understand, or would like to know more about, **please 
-raise your hand**. Believe it or not, the more questions you ask, the more **I** learn. Not just about the types of
-things that I may not be explaining correctly, but about the material itself as well. The best way to learn something
-is to teach it to somebody else. So I encourage all of you to raise your hand and ask as many questions as possible.
-The more you challenge my knowledge on the language with questions, the more we will learn as a class, and the better 
-your grades will be.
+That being said, if there is anything at all that you don't understand, or would like to know more about, **please raise
+your hand**. Believe it or not, the more questions you ask, the more **I** learn. Not just about the types of things 
+that I may not be explaining correctly, but about the material itself as well. The best way to learn something is to 
+teach it to somebody else. So I encourage all of you to raise your hand and ask as many questions as possible. The more 
+you challenge my knowledge on the language with questions, the more we will learn as a class, and the better your grades
+will be.
 
 Java can be a rather complicated language, and the topics that we will be covering this semester are on the tricky side,
 so let's make sure that we're all on the same page as much as possible.
@@ -64,16 +61,16 @@ so let's make sure that we're all on the same page as much as possible.
 
 Speaking of topics, these are the ones that we will be covering throughout the semester:
 
-- Inheritance
-- Polymorphism
-- Exception handling
-- Recursion
-- Linked-lists
-- Multi-threading and thread synchronisation
-- GUI Design
-
-Recursion and multi-threading, in particular, are famously difficult topics for beginners, so please don't delay in 
-asking your questions and/or catch up on the easier topics as soon as possible.
+- Data modeling with primitive data types
+- Single / multi-dimensional arrays
+- Classes and packages
+- Computation algorithm specification with expressions, assignments, conditional & loop statements, and method
+- Formatted data I/O on the console and through files
+- Software reuse with class inheritance
+- Interfaces and polymorphism
+- Problem-solving with Java collection framework data types stack, queue, Vector and Ηashtable
+- Basic sorting and searching algorithms
+- Basic graphic user interface programming based on event-driven programming
 
 ---
 
@@ -81,7 +78,9 @@ asking your questions and/or catch up on the easier topics as soon as possible.
 
 Speaking of catching up, the textbook that I will be pulling heavily from is the following:
 
-> ***Java Software Solutions***, Lewis and Loftus, Addison-Wesley, 9th Edition ISBN 9780134462028
+> ***Introduction to Java Programming and Data Structures, Comprehensive Version, Student Value Edition Plus MyLab 
+> Programming with Pearson eText - Access Card Package 12th Edition”,*** Y. Daniel Liang, 2017, Pearson, ISBN 
+> 9780136519355
 
 You can get this textbook via the Pace bookstore. ***Do not get the MyLab Pearson course ID***.
 
@@ -89,39 +88,9 @@ You can get this textbook via the Pace bookstore. ***Do not get the MyLab Pearso
 
 ### Part 5: _Course Structure_
 
-- **Programming Projects**: 20%
-- **Writing Assignments**: 10%
-- **Lab Assignments**: 10%
-- **Midterm Exams (2)**: 25% (12.5% each)
-- **Final Exam**: 20%
-- **Quizzes**: 10%
-- **Attendance**: 5%
-
-#### 5.1: _Assignments_
-
-We have two types of assignments throughout the semester:
-
-1. **Writing**: A few questions related to the material discussed in class; taken from the textbook.
-2. **Programming**: 6 programming projects, each due at 11:59pm on the due date. Late submissions are accepted up to 
-two days late, with 15% point deduction each day late.
-
-One late programming project will have its late penalty removed at the end of the semester—use this gift strategically.
-
-#### 5.2: _Labs_
-
-Following each lecture, you will be assigned a few programming problems to complete before our class period is over.
-You can, and are encouraged to, both collaborate with you classmates and to ask me questions. However, the work you
-submit must be entirely your own.
-
-**If you do not finish within the class time, the lab becomes homework by default.** You must show me the finished lab 
-by the next lab section to earn full credit.
-
-#### 5.3: _Exams & Quizzes_
-
-- **Two Midterm Exams**: Entire two-hour period; contains a paper test and a programming test.
-- **One Final Exam**: Cumulative, paper-only.
-- **Quizzes**: Assigned at the end of each lecture, testing your understanding of the basics. Naturally, you will need
-to pay attention to do well in them. These *will* be counted towards your final grade.
+- **Programming Projects**: 60%
+- **Quizzes**: 20%
+- **Attendance**: 20%
 
 ### Part 6: _Integrity_
 

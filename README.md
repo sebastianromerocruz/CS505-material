@@ -64,22 +64,22 @@ Each of the above learning objectives will be assessed by programing assignments
 
 ### _Course Weekly Schedule_
 
-| **Week**           | **Topic**                                                                                    | **Assignment**                                                                           |
-|--------------------|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-| **Week 1**         | Introduction to Java programming environment, JDK development environment development        | Deploy the unique Seidenberg Porta Lab virtual machine for programming anywhere any time |
-| **Week 2**         | Assignments, variables, basic Java class, command-line argument processing                   | Assignment 1                                                                             |
-| **Week 3**         | Selections, mathematical functions, characters, and strings                                  | Quiz 1                                                                                   |
-| **Week 4**         | Loops, methods, parameter passing                                                            |                                                                                          |
-| **Week 5**         | Single-dimensional arrays, multi-dimensional arrays                                          | Assignment 2                                                                             |
-| **Week 6**         | Objects and classes, Object-Oriented thinking                                                | Quiz 2                                                                                   |
-| **Week 7**         | Inheritance and polymorphism, abstract classes and interfaces                                | Assignment 3                                                                             |
-| **Week 8**         | Exception handling and text/binary I/O                                                       | Quiz 3                                                                                   |
-| **Week 9 and 10**  | Problem-solving with Java collection framework data types stack, queue, Vector and Ηashtable | Assignment 4                                                                             |
-| **Week 10**        | Introduction to sorting and searching algorithms                                             | Quiz 4                                                                                   |
-| **Week 11**        | Introduction to multi-threading and thread synchronization                                   | Assignment 5                                                                             |
-| **Week 12**        | Introduction to client / server networking                                                   | Quiz 5                                                                                   |
-| **Week 13 and 14** | JavaFX GUI programming, event-driven programming and animations                              | Assignment 6                                                                             |
-| **Week 15**        | Final exam                                                                                   | Final Exam                                                                               |
+| **Week**           | **Topic**                                                                                    | **Assignment**                                                                            |
+|--------------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| **Week 1**         | Introduction to Java programming environment, JDK development environment development        | Deploy the unique Seidenberg Portal Lab virtual machine for programming anywhere any time |
+| **Week 2**         | Assignments, variables, basic Java class, command-line argument processing                   | Assignment 1                                                                              |
+| **Week 3**         | Selections, mathematical functions, characters, and strings                                  | Quiz 1                                                                                    |
+| **Week 4**         | Loops, methods, parameter passing                                                            |                                                                                           |
+| **Week 5**         | Single-dimensional arrays, multi-dimensional arrays                                          | Assignment 2                                                                              |
+| **Week 6**         | Objects and classes, Object-Oriented thinking                                                | Quiz 2                                                                                    |
+| **Week 7**         | Inheritance and polymorphism, abstract classes and interfaces                                | Assignment 3                                                                              |
+| **Week 8**         | Exception handling and text/binary I/O                                                       | Quiz 3                                                                                    |
+| **Week 9 and 10**  | Problem-solving with Java collection framework data types stack, queue, Vector and Ηashtable | Assignment 4                                                                              |
+| **Week 10**        | Introduction to sorting and searching algorithms                                             | Quiz 4                                                                                    |
+| **Week 11**        | Introduction to multi-threading and thread synchronization                                   | Assignment 5                                                                              |
+| **Week 12**        | Introduction to client / server networking                                                   | Quiz 5                                                                                    |
+| **Week 13 and 14** | JavaFX GUI programming, event-driven programming and animations                              | Assignment 6                                                                              |
+| **Week 15**        | Final exam                                                                                   | Final Exam                                                                                |
 
 #### _Repository Structure_
 
@@ -118,8 +118,7 @@ Each of the above learning objectives will be assessed by programing assignments
 ### _Lectures_
 
 1. [**Introduction**](src/introduction/)
-2. [**Inheritance**](src/inheritance/)
-3. [**Overriding Methods and Abstract Classes**](src/overridingMethodsAndAbstract/)
+2. [**Hello, JDK**](src/helloWorld/)
 
 ### _University Policies and Resources_
 
