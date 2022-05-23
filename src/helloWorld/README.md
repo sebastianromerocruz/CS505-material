@@ -2,7 +2,7 @@
 
 # Programming in Java and Java Development Kit (JDK)
 
-***Song of the day***: _[**Omokage (produced by Vaundy)**](https://youtu.be/Z2Z9V-4DMGw) by milet, Aimer, and Lilas Ikuta (2021)._
+***Song of the day***: _[**If You Know What's Right**](https://youtu.be/9CbtWVb8Omc) by Her's (2018)._
 
 ---
 
@@ -54,7 +54,7 @@ class HelloWorld {
 }
 ```
 
-<sub>**Code Block 3**: A Java _"Hello, World!"_ defined for the `HelloWorld` class.</sub>
+<sub>**Code Block 3**: A [**Java _"Hello, World!"_**](HelloWorld.java) defined for the `HelloWorld` class.</sub>
 
 If you've worked with other languages before, such as Python, `System.out.println()` is basically the equivalent of a
 `print()` statement—it tells Java to display whatever is passed into the set of parentheses onto our screen. In this 
@@ -170,7 +170,7 @@ class Name {
 }
 ```
 
-<sub>**Code Block 4**: A Java program introducing me. Welcome to the future.</sub>
+<sub>**Code Block 4**: A Java [**program**](Name.java) introducing me. Welcome to the future.</sub>
 
 Compiling the `Name.java` file and running the `Name.class` bytecode file will result in the following output:
 
@@ -198,7 +198,8 @@ public class DisplayEarthVolume {
 }
 ```
 
-<sub>**Code Block 5**: A Java program to display the approximate volume of the Earth.</sub>
+<sub>**Code Block 5**: A Java [**program**](DisplayEarthVolume.java) to display the approximate volume of the 
+Earth.</sub>
 
 Compiling and running will result in the following output:
 
