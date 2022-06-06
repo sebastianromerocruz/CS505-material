@@ -4,6 +4,15 @@
 
 ***Song of the day***: _[**If You Know What's Right**](https://youtu.be/9CbtWVb8Omc) by Her's (2018)._
 
+### Sections
+
+1. [**Our First Java Program**](#part-1-_our-first-java-program_)
+2. [**Compiling a Java File**](#part-2-_compiling-a-java-file_)
+3. [**Running a Java File**](#part-3-_running-a-java-file_)
+4. [**Demystifying Java**](#part-4-_demystifying-java_)
+5. [**Our Second (and third, and fourth, and...) Java 
+Program**](#part-5-_our-second-and-third-and-fourth-and-java-program_)
+
 ---
 
 ### Part 1: _Our First Java Program_

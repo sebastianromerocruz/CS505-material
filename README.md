@@ -14,7 +14,7 @@
 ### _Class Information_
 
 - **Pre-Requisites**: None.
-- **Credits**: None.
+- **Credits**: 3.
 - **Function**: Prerequisite for MS in Computer Science and MS in Software Development & Engineering.
 
 ### _Description_
@@ -119,6 +119,7 @@ Each of the above learning objectives will be assessed by programing assignments
 
 1. [**Introduction**](src/introduction/)
 2. [**Hello, JDK**](src/helloWorld/)
+3. [**Variables, Constants, and Style**](src/programmingFundamentals/)
 
 ### _University Policies and Resources_
 
