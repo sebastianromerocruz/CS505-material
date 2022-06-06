@@ -8,12 +8,12 @@
 
 ### Sections
 
-1. [**Review**](#part-1-_review_)
+1. [**Review**](#part-1-review)
     - [**The problem**](#the-problem)
-    - [**Solution**](#_solution_)
-3. [**Saving data with variables**](#part-2-_saving-data-with-variables_)
-4. [**Naming conventions**](#part-3-_naming-conventions_)
-5. [**Constants**](#part-4-_constants_)
+    - [**Solution**](#solution)
+3. [**Saving data with variables**](#part-2-saving-data-with-variables)
+4. [**Naming conventions**](#part-3-naming-conventions)
+5. [**Constants**](#part-4-constants)
 
 ### Part 1: _Review_
 
