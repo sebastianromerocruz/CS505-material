@@ -1,4 +1,4 @@
-## Lecture 02
+## Lecture 03
 
 # Variables, Constants, and Style
 

@@ -120,6 +120,7 @@ Each of the above learning objectives will be assessed by programing assignments
 1. [**Introduction**](src/introduction/)
 2. [**Hello, JDK**](src/helloWorld/)
 3. [**Variables, Constants, and Style**](src/programmingFundamentals/)
+4. [**Numeric Operators, Converting Types, and User Input**](src/userInput/)
 
 ### _University Policies and Resources_
 
